@@ -1,2 +1,0 @@
-# Nobel.pbo
-Nobels Spielwiese
